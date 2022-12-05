@@ -1,5 +1,7 @@
 page1
 
-Hello there,
+Hello there!
 
 Have you found your chi yet?
+
+Stay focused!
