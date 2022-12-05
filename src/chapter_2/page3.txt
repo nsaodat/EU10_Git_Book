@@ -1,0 +1,6 @@
+Additions are made by a teamm mate
+
+- Websites
+Long lengths of random text data can be used to test and validate web forms. During the online design and development phase, it is helpful to test web forms 
+and content blocks for content spill-over or truncation. 
+Additionally, observe how various platform form factors, such as reading information on both desktop and mobile devices, respond to different text lengths.
