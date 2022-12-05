@@ -1,4 +1,4 @@
-Additions are made by a team mate
+Additions are made by a teammate
 
 - Websites
 Long lengths of random text data can be used to test and validate web forms. During the online design and development phase, it is helpful to test web forms 
