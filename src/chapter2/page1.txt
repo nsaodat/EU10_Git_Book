@@ -1,0 +1,2 @@
+What is this?
+This random text generator tool creates placeholder text using Lorem Ipsum. This version of the random text generator allows the user to generate a specific number of text characters, rather than entire paragraphs. This helps to fill up the text on pages without having to write meaningful sentences, which may be tedious and distracting to write. Random Lorem Ipsum text paragraphs can be used to fill in blanks where text is required since they have a comparable character and word distribution to English.
